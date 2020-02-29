@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "kachergis@stanford.edu"
 phone = ""
-address = "277 Jordan Hall (Building 420), Stanford University, California, 90210, USA"
+address = "260 Jordan Hall (Building 420), Stanford University, California, 90210, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""

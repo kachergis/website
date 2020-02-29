@@ -20,7 +20,8 @@ organizations:
   url: "http://langcog.stanford.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include learning, memory, and language, and how the first two enable us to learn the latter.
+bio: 
+  My research interests encompass learning and memory, and focus on how they enable us to use the greatest human technology: language.
 
 interests:
 - Human Learning and Memory
@@ -67,7 +68,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
 #   icon_pack: ai
-#   link: files/kachergis_cv19.pdf
+#   link: files/kachergis_cv20.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
