@@ -1,51 +1,49 @@
-+++
-# Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+---
+# An instance of the Accomplishments widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+widget: accomplishments
 
-title = "Accomplish&shy;ments"
-subtitle = ""
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 100
+
+# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+title: 'Accomplish&shy;ments'
+subtitle:
 
 # Date format
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
 # Accomplishments.
-#   Add/remove as many `[[item]]` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+item:
+- date_end: ""
+  date_start: "2013-07-01"
+  description: "Outstanding dissertation that transcends any one of the individual fields comprising cognitive science."
+  organization: Cognitive Science Society
+  organization_url: https://cognitivesciencesociety.org
+  title: 'Glushko Dissetation Prize for Thesis: Mechanisms for cross-situational learning of word-referent mappings: Empirical and modeling evidence'
+  url: "https://cognitivesciencesociety.org/glushko-dissertation-prize/"
   
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
-
-+++
+- date_end: ""
+  date_start: "2012-07-01"
+  description: "Marr Prize for Best Student Paper"
+  organization: Cognitive Science Society
+  organization_url: https://cognitivesciencesociety.org
+  title: 'Marr Prize for Kachergis, G., Yu, C. & Shiffrin, R. M. (2012). Actively Learning Nouns Across Ambiguous Situations.'
+  url: "https://cognitivesciencesociety.org/conference-awards/"
+ 
+- date_end: ""
+  date_start: "2012-06-01"
+  description: "Prize for Best Paper with Experiment Combined with Computational Model"
+  organization: IEEE International Conference on Development and Learning / EpiRob
+  organization_url: https://icdl-2021.org/
+  title: 'Prize for Kachergis, G., Yu, C., & Shiffrin, R. M. (2012). Cross-situational Word Learning is Better Modeled by Associations than Hypotheses.'
+  url: "https://ieeexplore.ieee.org/document/6477118" 
+---
