@@ -1,8 +1,8 @@
-module github.com/wowchemy/starter-academic
+module github.com/wowchemy/starter-hugo-academic
 
 go 1.15
 
 require (
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210211185922-b811f9a1bb9c // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms v0.0.0-20210211185922-b811f9a1bb9c // indirect
+	github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20211231133358-6d4989f90f7a // indirect
+	github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20211231133358-6d4989f90f7a // indirect
 )

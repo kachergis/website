@@ -13,11 +13,10 @@ organizations:
 - name: Stanford University
   url: https://www.stanford.edu/
 - name: Language & Cognition Lab
-  url: "http://langcog.stanford.edu/"
+  url: http://langcog.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-  My research interests encompass learning and memory, and focus on how they enable us to use the greatest human technology--language.
+bio: My research interests encompass learning and memory, and focus on how they enable us to use the greatest human technology--language.
 
 # Interests to show in About widget
 interests:
@@ -46,7 +45,7 @@ education:
     year: 2007
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
@@ -67,19 +66,19 @@ social:
   link: https://www.linkedin.com/in/georgekachergis/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: media/kachergis_cv21.pdf
+#   link: uploads/kachergis_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 George Kachergis is a research scientist in the Language and Cognition Lab at Stanford. His research interests include language, learning, and memory. He is particularly interested in creating computational explanations of how these abilities work (together) in humans, with an eye towards making AI that is more human-like.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/kachergis_cv21.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/kachergis_cv.pdf" "newtab" >}}CV{{< /staticref >}}.

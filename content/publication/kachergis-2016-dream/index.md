@@ -1,10 +1,39 @@
-+++
-title = "A Dream Model: Reactivation and re-encoding mechanisms for sleep-dependent memory consolidation"
-date = 2016-01-01
-authors = ["G. Kachergis", "R. de Kleijn", "B. Hommel"]
-publication_types = ["1"]
-abstract = "We humans spend almost a third of our lives asleep, and there is mounting evidence that sleep not only maintains, but actually improves many of our cognitive functions. Memory consolidation–the process of crystallizing and integrating memories into knowledge and skills–is particularly benefitted by sleep. We survey the evidence that sleep aids memory consolidation in various declarative and implicit tasks and review the basic neurophysiological structure of sleep with a focus on understanding what neural systems are involved. Drawing on machine learning research, we discuss why it might be useful for humans–and robots, perhaps–to have such an offline period for processing, even though humans are clearly capable of learning incrementally, online. Finally, we propose and simulate two mechanisms for use in computational memory models to accomplish sleep-based consolidation via either or both 1) re-encoding knowledge representations and 2) reactivating and strengthening recent memories."
-featured = false
-publication = "*Proceedings of the 38th Annual Conference of the Cognitive Science Society*"
-+++
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
 
+title: 'A Dream Model: Reactivation and re-encoding mechanisms for sleep-dependent
+  memory consolidation'
+subtitle: ''
+summary: ''
+authors:
+- G. Kachergis
+- R. de Kleijn
+- B. Hommel
+tags: []
+categories: []
+date: '2016-01-01'
+lastmod: 2022-01-12T15:30:00-08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-01-12T23:30:00.653400Z'
+publication_types:
+- '1'
+abstract: ''
+publication: '*Proceedings of the 38th Annual Conference of the Cognitive Science
+  Society*'
+---

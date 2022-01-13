@@ -1,11 +1,43 @@
 ---
-title: "Characterizing the object categories two children see and interact with in a dense dataset of naturalistic visual experience"
-date: 2021-01-01
-publishDate: 2021-02-15T18:56:51.676811Z
-authors: ["B. Long", "G. Kachergis", "N. Bhatt", "M. C. Frank"]
-publication_types: ["3"]
-abstract: "What do infants and young children tend to see in their everyday lives?  Relatively little work has examined the categories and objects that tend to be in the infant view during everyday experience, despite the fact that this knowledge is central to theories of category learning. Here, we analyzed the prevalence of the  categories (e.g., people, animals, food) in the infant view in a longitudinal dataset of egocentric infant visual experience. Overall, we found a surprising amount of consistency in the broad characteristics of children's visual environment across individuals and across developmental time, in contrast to prior work examining the changing nature of the social signals in the infant view. In addition, we analyzed the distribution and identity of the categories that children tended touch and interact with in this dataset, generalizing previous findings that these objects tended to be distributed in a Zipfian manner. Taken together, these findings take a first step towards characterizing infants' changing visual environment, and call for future work to examine the generalizability of these results and to link them to learning outcomes."
-featured: true
-publication: ""
----
+# Documentation: https://wowchemy.com/docs/managing-content/
 
+title: Characterizing the object categories two children see and interact with in
+  a dense dataset of naturalistic visual experience
+subtitle: ''
+summary: ''
+authors:
+- B. Long
+- G. Kachergis
+- N. Bhatt
+- M. C. Frank
+tags: []
+categories: []
+date: '2021-01-01'
+lastmod: 2022-01-12T16:48:04-08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-01-13T00:48:04.345117Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*Proceedings of the 43rd Annual Conference of the Cognitive Science
+  Society*'
+links:
+- name: URL
+  url: https://psyarxiv.com/nv47t/
+---

@@ -1,10 +1,41 @@
-+++
-title = "Detecting reading strategies during task-oriented reading: Building an automated classifier"
-date = 2018-01-01
-authors = ["G. *Kachergis", "J. *Kielstra", "L. Bokkers", "B. Persad", "I. Molenaar"]
-publication_types = ["1"]
-abstract = "Secondary school students are continuously asked to read texts and execute tasks related to these texts. Many students experience difficulties in reading to successfully perform these tasks. Task-oriented reading is conceptualized as an adaptive problem-solving process in which readers engage with the text selectively based on the task. Usage of appropriate reading strategies leads to more efficient and accurate task performance. Our aim is to provide students with personalized support to effectively select reading strategies. A first step towards personalized support is the automatic detection of students’ reading strategies. This study describes the development of a supervised machine learning classifier to detect students’ reading strategies. Human raters classified 1,091 graphs of students’ behavior recorded on tablets as they engaged in task-oriented reading. These ratings were used to train a classifier on 13 features extracted from the students’ reading behavior. The overall accuracy for classifying reading strategies was 0.74, significantly greater than chance. Searched reading strategies were the easiest to identify, with a balanced accuracy of 0.84, followed by intensive (0.81) and targeted reading strategies (0.69). The most important features in the classifier were the ratio of sentences that readers skimmed too quickly, the number of unique sentences read, and the variance of time spent reading each sentence. These features are quite different from typical process variables used to study task-oriented reading, yet are easy to automatically extract in tablet- based reading. This classifier is a first step in the development of personalized support based on students' use of reading strategies."
-featured = false
-publication = "*Workshop on Personalization Approaches in Learning Environments at AIED 2018*"
-+++
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
 
+title: 'Detecting reading strategies during task-oriented reading: Building an automated
+  classifier'
+subtitle: ''
+summary: ''
+authors:
+- G. *Kachergis
+- J. *Kielstra
+- L. Bokkers
+- B. Persad
+- I. Molenaar
+tags: []
+categories: []
+date: '2018-01-01'
+lastmod: 2022-01-12T15:29:58-08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-01-12T23:29:58.061620Z'
+publication_types:
+- '1'
+abstract: ''
+publication: '*Workshop on Personalization Approaches in Learning Environments at
+  AIED 2018*'
+---
