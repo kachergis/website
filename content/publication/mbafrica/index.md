@@ -1,40 +1,18 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "Exploring variation in infants' preference for infant-directed speech: Evidence\
-  \ from a multi-site study in Africa"
-subtitle: ''
-summary: ''
+title: "Exploring variation in infants' preference for infant-directed speech: Evidence
+  from a multi-site study in Africa"
 authors:
 - A. S. M. Tsui
 - A. Carstensen
 - G. Kachergis
 - ' ...'
 - M. C. Frank
-tags: []
-categories: []
 date: '2021-01-01'
-lastmod: 2022-01-12T15:29:54-08:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-01-12T23:29:54.186470Z'
+publishDate: '2024-09-24T23:30:24.700395Z'
 publication_types:
-- '3'
-abstract: ''
+- manuscript
 publication: '*Developmental Science*'
+links:
+- name: URL
+  url: https://osf.io/fqp4b
 ---

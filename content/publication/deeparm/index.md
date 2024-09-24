@@ -1,37 +1,42 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: A critical period for robust curriculum-based deep reinforcement learning of sequential action in a robot arm
-subtitle: ''
-summary: ''
+title: A critical period for robust curriculum-based deep reinforcement learning of
+  sequential action in a robot arm
 authors:
 - R. de Kleijn
 - D. Sen
 - G. Kachergis
-tags: []
-categories: []
-date: '2021-01-01'
-lastmod: 2022-01-12T15:29:54-08:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-01-12T23:29:53.775626Z'
+date: '2022-01-01'
+publishDate: '2024-09-24T23:30:24.695238Z'
 publication_types:
-- '3'
-abstract: ''
+- article-journal
 publication: '*Topics in Cognitive Science*'
+abstract: Many everyday activities are sequential in nature. That is, they can be
+  seen as a sequence of subactions and sometimes subgoals. In the motor execution
+  of sequential action, context effects are observed in which later subactions modulate
+  the execution of earlier subactions (e.g., reaching for an overturned mug, people
+  will optimize their grasp to achieve a comfortable end state). A trajectory (movement)
+  adaptation of an often-used paradigm in the study of sequential action, the serial
+  response time task, showed several context effects of which centering behavior is
+  of special interest. Centering behavior refers to the tendency (or strategy) of
+  subjects to move their arm or mouse cursor to a position equidistant to all stimuli
+  in the absence of predictive information, thereby reducing movement time to all
+  possible targets. In the current study, we investigated sequential action in a virtual
+  robotic agent trained using proximal policy optimization, a state-of-the-art deep
+  reinforcement learning algorithm. The agent was trained to reach for appearing targets,
+  similar to a serial response time task given to humans. We found that agents were
+  more likely to develop centering behavior similar to human subjects after curricularized
+  learning. In our curriculum, we first rewarded agents for reaching targets before
+  introducing a penalty for energy expenditure. When the penalty was applied with
+  no curriculum, many agents failed to learn the task due to a lack of action space
+  exploration, resulting in high variability of agents' performance. Our findings
+  suggest that in virtual agents, similar to infants, early energetic exploration
+  can promote robust later learning. This may have the same effect as infants' curiosity-based
+  learning by which they shape their own curriculum. However, introducing new goals
+  cannot wait too long, as there may be critical periods in development after which
+  agents (as humans) cannot flexibly learn to incorporate new objectives. These lessons
+  are making their way into machine learning and offer exciting new avenues for studying
+  both human and machine learning of sequential action.
+links:
+- name: URL
+  url: https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12595
 ---

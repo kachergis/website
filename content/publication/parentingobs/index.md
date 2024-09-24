@@ -1,41 +1,28 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Understanding the impacts of video-guided activities on parent-child interaction
-subtitle: ''
-summary: ''
 authors:
 - G. Kachergis
 - E. Hembacher
 - V. Cristiano
 - H. V. Zhang
 - M. C. Frank
-tags: []
-categories: []
-date: '2021-01-01'
-lastmod: 2022-01-12T16:48:04-08:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-01-13T00:48:04.077746Z'
+date: '2022-01-01'
+publishDate: '2024-09-24T23:30:24.679019Z'
 publication_types:
-- '2'
-abstract: ''
-publication: ''
+- manuscript
+abstract: Early parenting practices play an important role in shaping children's future
+  outcomes. In particular, high-quality early interactions can facilitate language
+  learning and school performance. The rise of phone-based parenting applications
+  (\"apps\") could deliver low-cost interventions on parenting style to a wide variety
+  of populations, especially the parents of very young children, who are often difficult
+  to reach in other ways. Yet little is known about the effects of communicating to
+  parents through app-based interventions. In two studies (one preregistered), we
+  showed parents short videos depicting age-appropriate parent-child activities from
+  a parenting app. We found that after watching the video, parents spoke more and
+  made more bids for joint attention, as compared with controls who watched no video
+  (experiment 1) or a science video (experiment 2). These results suggest that activity
+  videos can lead to positive changes in parent engagement, providing support for
+  the use of such videos in parenting interventions.
 links:
 - name: URL
   url: https://psyarxiv.com/dmeza/

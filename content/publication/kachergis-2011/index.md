@@ -1,38 +1,28 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Adaptive Magnitude and Valence Biases in a Dynamic Memory Task
-subtitle: ''
-summary: ''
 authors:
 - G. Kachergis
 - G. Recchia
 - R. M. Shiffrin
-tags: []
-categories: []
 date: '2011-01-01'
-lastmod: 2022-01-12T15:30:06-08:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-01-12T23:30:06.046229Z'
+publishDate: '2024-09-24T23:30:24.804498Z'
 publication_types:
-- '1'
-abstract: ''
+- paper-conference
 publication: '*Proceedings of the 33rd Annual Conference of the Cognitive Science
   Society*'
+abstract: Given that human memory is fallible, it is likely adaptive for people to
+  preferentially encode, retain, and retrieve important items better than insignificant
+  ones. Using a dynamic decision-making paradigm with a  response deadline, we find
+  that humans demonstrate a bias to better remember 1) items with positive rather
+  than  negative value, and 2) items with high-magnitude values. Performance was greater
+  when participants  were  shown all  item-value  pairs simultaneously, and were  thus  able
+  to  selectively  attend  to  high-magnitude values. The same magnitude bias is observed
+  for sequentially studied  positive  items,  but  not  for  negative  items. Decision
+  trajectories  show  participants  sometimes  change  their  minds during  the  course  of  a  trial,  choosing  an  item  after  first
+  moving  toward  the  other.  Changes  of  heart  occurred  more often  for trials  with  negative  items.
+  These  findings  suggest that memory is sensitive to value, and that real-time game
+  paradigms can be used to reveal dynamic memory processes.
+links:
+- name: URL
+  url: https://escholarship.org/uc/item/1vn5d8z7
 ---

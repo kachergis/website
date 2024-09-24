@@ -1,37 +1,15 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Toward a "Standard Model" of Early Language Learning
-subtitle: ''
-summary: ''
+title: Toward a ``Standard Model'' of Early Language Learning
 authors:
 - G. Kachergis
 - V. Marchman
 - M. C. Frank
-tags: [word learning, development, modeling]
-categories: []
 date: '2021-01-01'
-lastmod: 2022-01-12T16:48:04-08:00
-featured: true
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-01-13T00:48:04.768880Z'
+publishDate: '2024-09-24T23:30:24.690599Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*Current Directions in Psychological Science*'
+doi: 10.1177/09637214211057836
 abstract: A standard model is a theoretical framework that synthesizes observables
   into a quantitative consensus. Have researchers made progress toward this kind of
   synthesis for children’s early language learning? Many computational models of early
@@ -44,7 +22,6 @@ abstract: A standard model is a theoretical framework that synthesizes observabl
   connection reveals that currently available data sets do not allow researchers to
   test the resulting models fully, illustrating a critical need for theory to contribute
   to shaping new data collection and creating and testing an eventual standard model.
-publication: '*Current Directions in Psychological Science*'
 links:
 - name: URL
   url: https://psyarxiv.com/yhrb4

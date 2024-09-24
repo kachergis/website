@@ -1,38 +1,16 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Exploring informal science interventions to promote children's understanding
   of natural categories
-subtitle: ''
-summary: ''
 authors:
 - G. Kachergis
 - T. M. Gureckis
 - M. Rhodes
-tags: []
-categories: []
 date: '2019-01-01'
-lastmod: 2022-01-12T15:29:56-08:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-01-12T23:29:56.399562Z'
+publishDate: '2024-09-24T23:30:24.715860Z'
 publication_types:
-- '1'
+- paper-conference
+publication: '*Proceedings of the 41st Annual Conference of the Cognitive Science
+  Society*'
 abstract: \"Categories carve up the world in a structured way, allowing people to
   inductively reason about the properties of novel exemplars. Children are still in
   the process of learning category structure, and often fail to leverage the inductive
@@ -48,6 +26,4 @@ abstract: \"Categories carve up the world in a structured way, allowing people t
   tended to avoid sampling waterbirds, the least typical cluster of birds. These patterns
   suggest that children's neglect of sample diversity is unlikely to be solely due
   to their relative ignorance of category structure.\"
-publication: '*Proceedings of the 41st Annual Conference of the Cognitive Science
-  Society*'
 ---

@@ -1,42 +1,30 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: 'Peekbank: An open, large-scale repository for developmental eye-tracking data
   of children’s word recognition'
-subtitle: ''
-summary: ''
 authors:
 - M. Zettersten
 - D. Yurovsky
-- ' ...'
+- ' Others'
 - G. Kachergis
-- C. A. ... Bergey
+- ' Others'
+- C. A. Bergey
 - M. C. Frank
-tags: []
-categories: []
 date: '2022-01-01'
-lastmod: 2022-10-29T17:54:43-07:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-10-30T00:54:43.143208Z'
+publishDate: '2024-09-24T23:30:24.667694Z'
 publication_types:
-- '2'
-abstract: ''
+- article-journal
 publication: '*Behavior Research Methods*'
 doi: 10.3758/s13428-022-01906-4
+abstract: The ability to rapidly recognize words and link them to referents is central
+  to children’s early language development. This ability, often called word recognition
+  in the developmental literature, is typically studied in the looking-while-listening
+  paradigm, which measures infants’ fixation on a target object (vs. a distractor)
+  after hearing a target label. We present a large-scale, open database of infant
+  and toddler eye-tracking data from looking-while-listening tasks. The goal of this
+  effort is to address theoretical and methodological challenges in measuring vocabulary
+  development. We first present how we created the database, its features and structure,
+  and associated tools for processing and accessing infant eye-tracking datasets.
+  Using these tools, we then work through two illustrative examples to show how researchers
+  can use Peekbank to interrogate theoretical and methodological questions about children’s
+  developing word recognition ability.
 ---

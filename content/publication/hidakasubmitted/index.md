@@ -1,38 +1,14 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Active learners learn what simple samplers cannot- A Zipf-distributed vocabulary
-  from limited data
-subtitle: ''
-summary: ''
+title: 'Active learners learn what simple samplers cannot: A Zipf-distributed vocabulary
+  from limited data'
 authors:
 - S. Hidaka
 - T. Torii
 - G. Kachergis
-tags: []
-categories: []
-date: '2019-01-01'
-lastmod: 2022-01-12T15:29:56-08:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-01-12T23:29:55.809359Z'
+date: '2022-01-01'
+publishDate: '2024-09-24T23:30:24.711244Z'
 publication_types:
-- '3'
+- manuscript
 abstract: Children learn thousands of words in the first several years of life, inspiring
   many theoretical and empirical studies seeking to understand the speed of word learning.
   The present study revisits recent theoretical analyses of simple sampling models
@@ -49,5 +25,4 @@ abstract: Children learn thousands of words in the first several years of life, 
   structure in real-world situations--potentially created by the self-directed learner
   or beneficent teachers--is a potential remedy for the difficulty of learning a Zipf-distributed
   vocabulary.
-publication: ''
 ---
