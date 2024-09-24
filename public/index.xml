@@ -5,12 +5,52 @@
     <link>https://kachergis.github.io/</link>
       <atom:link href="https://kachergis.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>George Kachergis</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2024 George Kachergis</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2024 George Kachergis</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kachergis.github.io/media/icon_hu10226378635250344412.png</url>
       <title>George Kachergis</title>
       <link>https://kachergis.github.io/</link>
     </image>
+    
+    <item>
+      <title>Comparing apples to manzanas and oranges to naranjas: A new measure of English-Spanish vocabulary for dual language learners</title>
+      <link>https://kachergis.github.io/publication/dll/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/dll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Variability Network Exchange (LEVANTE): A global framework for measuring children’s learning variability through collaborative data sharing</title>
+      <link>https://kachergis.github.io/publication/levante/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/levante/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring children’s early vocabulary in low-resource languages using a Swadesh-style word list</title>
+      <link>https://kachergis.github.io/publication/swadeshcdi/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/swadeshcdi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A critical period for robust curriculum-based deep reinforcement learning of sequential action in a robot arm</title>
+      <link>https://kachergis.github.io/publication/deeparm/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/deeparm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A large-scale comparison of cross-situational word learning models</title>
+      <link>https://kachergis.github.io/publication/bakeoff/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/bakeoff/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A longitudinal analysis of the social information in infants&#39; naturalistic visual experience using automated detections</title>
@@ -21,10 +61,26 @@
     </item>
     
     <item>
+      <title>Active learners learn what simple samplers cannot: A Zipf-distributed vocabulary from limited data</title>
+      <link>https://kachergis.github.io/publication/hidakasubmitted/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/hidakasubmitted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An automated classifier for child-directed speech from LENA recordings</title>
       <link>https://kachergis.github.io/publication/bang-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://kachergis.github.io/publication/bang-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Online Computerized Adaptive Test (CAT) of Children&#39;s Vocabulary Development in English and Mexican Spanish</title>
+      <link>https://kachergis.github.io/publication/cdicat/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/cdicat/</guid>
       <description></description>
     </item>
     
@@ -53,6 +109,14 @@
     </item>
     
     <item>
+      <title>ManyBabies3: A multi-lab study of infant algebraic rule learning</title>
+      <link>https://kachergis.github.io/publication/visser-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/visser-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Peekbank: An open, large-scale repository for developmental eye-tracking data of children’s word recognition</title>
       <link>https://kachergis.github.io/publication/zettersten-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -69,18 +133,10 @@
     </item>
     
     <item>
-      <title>A critical period for robust curriculum-based deep reinforcement learning of sequential action in a robot arm</title>
-      <link>https://kachergis.github.io/publication/deeparm/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/deeparm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A large-scale comparison of cross-situational word learning models</title>
-      <link>https://kachergis.github.io/publication/bakeoff/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/bakeoff/</guid>
+      <title>Understanding the impacts of video-guided activities on parent-child interaction</title>
+      <link>https://kachergis.github.io/publication/parentingobs/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/parentingobs/</guid>
       <description></description>
     </item>
     
@@ -93,26 +149,10 @@
     </item>
     
     <item>
-      <title>An Online Computerized Adaptive Test (CAT) of Children&#39;s Vocabulary Development in English and Mexican Spanish</title>
-      <link>https://kachergis.github.io/publication/cdicat/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/cdicat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Characterizing the object categories two children see and interact with in a dense dataset of naturalistic visual experience</title>
       <link>https://kachergis.github.io/publication/babyview/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://kachergis.github.io/publication/babyview/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comparing apples to manzanas and oranges to naranjas: A new measure of English-Spanish vocabulary for dual language learners</title>
-      <link>https://kachergis.github.io/publication/dll/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/dll/</guid>
       <description></description>
     </item>
     
@@ -149,18 +189,10 @@
     </item>
     
     <item>
-      <title>Toward a &#34;Standard Model&#34; of Early Language Learning</title>
+      <title>Toward a ``Standard Model&#39;&#39; of Early Language Learning</title>
       <link>https://kachergis.github.io/publication/standard-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://kachergis.github.io/publication/standard-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Understanding the impacts of video-guided activities on parent-child interaction</title>
-      <link>https://kachergis.github.io/publication/parentingobs/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/parentingobs/</guid>
       <description></description>
     </item>
     
@@ -395,14 +427,6 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Active learners learn what simple samplers cannot- A Zipf-distributed vocabulary from limited data</title>
-      <link>https://kachergis.github.io/publication/hidakasubmitted/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/hidakasubmitted/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Computational and robotic models of early language development: A review</title>
       <link>https://kachergis.github.io/publication/oudeyer-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -439,14 +463,6 @@ $$&lt;/p&gt;
       <link>https://kachergis.github.io/publication/coxsubmitted/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://kachergis.github.io/publication/coxsubmitted/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anthropomorphization of artificial agents leads to fair and strategic, but not altruistic behavior</title>
-      <link>https://kachergis.github.io/publication/de-kleijn-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/de-kleijn-2018/</guid>
       <description></description>
     </item>
     
@@ -519,6 +535,14 @@ $$&lt;/p&gt;
       <link>https://kachergis.github.io/publication/adams-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://kachergis.github.io/publication/adams-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IQ and working memory predict plan-based sequential action learning</title>
+      <link>https://kachergis.github.io/publication/de-kleijn-2018/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/de-kleijn-2018/</guid>
       <description></description>
     </item>
     
