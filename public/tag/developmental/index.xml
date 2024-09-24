@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Developmental | George Kachergis</title>
-    <link>http://localhost:1313/tag/developmental/</link>
-      <atom:link href="http://localhost:1313/tag/developmental/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kachergis.github.io/tag/developmental/</link>
+      <atom:link href="https://kachergis.github.io/tag/developmental/index.xml" rel="self" type="application/rss+xml" />
     <description>Developmental</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2024 George Kachergis</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu10226378635250344412.png</url>
+      <url>https://kachergis.github.io/media/icon_hu10226378635250344412.png</url>
       <title>Developmental</title>
-      <link>http://localhost:1313/tag/developmental/</link>
+      <link>https://kachergis.github.io/tag/developmental/</link>
     </image>
     
     <item>
       <title>Children&#39;s familiarity preference in self-directed study improves recognition memory</title>
-      <link>http://localhost:1313/publication/adams-2017-mem/</link>
+      <link>https://kachergis.github.io/publication/adams-2017-mem/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/adams-2017-mem/</guid>
+      <guid>https://kachergis.github.io/publication/adams-2017-mem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Executive function and attention predict low-income preschoolers&#39; active category learning</title>
-      <link>http://localhost:1313/publication/adams-2017/</link>
+      <link>https://kachergis.github.io/publication/adams-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/adams-2017/</guid>
+      <guid>https://kachergis.github.io/publication/adams-2017/</guid>
       <description></description>
     </item>
     
