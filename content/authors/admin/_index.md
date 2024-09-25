@@ -10,31 +10,35 @@ role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-- name: Language & Cognition Lab
-  url: http://langcog.stanford.edu/
+- name: Arizona State University
+  url: https://www.asu.edu/
+- name: Cognition, Behavior & Information
+  url: https://newcollege.asu.edu/cbi
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests encompass learning and memory, and focus on how they enable us to use the greatest human technology--language.
+bio: My research interests encompass learning and memory, and focus on how they enable us to develop the capacity for the greatest human technology--language.
 
 # Interests to show in About widget
 interests:
 - Human Learning and Memory
-- Language Learning
+- Language Development
+- Computational Cognitive Models
 - Artificial Intelligence
 - Educational Games
 
 # Education to show in About widget
 education:
   courses:
+  - course: Research Scientist in the Language & Cognition Lab
+    institution: Stanford University
+    year: 2018-2024
   - course: Assistant Professor in Artificial Intelligence
     institution: Radboud University / Donders Institute
     year: 2016-2018
-  - course: Postdoc
+  - course: Postdoctoral Scholar in the Computation & Cognition Lab 
     institution: New York University
     year: 2015-2016
-  - course: Postdoc
+  - course: Postdoctoral Scholar on the RoboHow Project
     institution: Leiden University
     year: 2013-2014
   - course: PhD in Cognitive Psychology and Cognitive Science
@@ -79,6 +83,6 @@ email: ""
 highlight_name: true
 ---
 
-George Kachergis is a research scientist in the Language and Cognition Lab at Stanford. His research interests include language, learning, and memory. He is particularly interested in creating computational explanations of how these abilities work (together) in humans, with an eye towards making AI that is more human-like.
+George Kachergis runs the Computational Cognitive Models (CoCoMo) Lab at Arizona State University. His research seeks to understand how memory and attention support language learning and skill development. He is particularly interested in creating computational explanations of how cognitive skills develop in children, with an eye towards making AI that is more human-like.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/kachergis_cv.pdf" "newtab" >}}CV{{< /staticref >}}.

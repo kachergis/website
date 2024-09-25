@@ -30,15 +30,16 @@ image:
 
 authors:
 - admin
-- 吳恩達
 
 tags:
-- Academic
-- 开源
+- learning
+- memory
+- artificial intelligence
+- language
+- games
 
 categories:
 - Demo
-- 教程
 ---
 
 ## Overview

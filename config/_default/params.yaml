@@ -18,19 +18,19 @@ twitter: 'https://twitter.com/kachergis'
 
 # Contact (edit or remove options as required)
 
-email: kachergis@stanford.edu
+email: kachergis@asu.edu
 phone: ""
 address:
-  street: Building 420
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: FSB Building
+  city: Phoenix
+  region: AZ
+  postcode: '85029'
   country: United States
   country_code: US
 coordinates:
   latitude: '37.428577'
   longitude: '-122.1720005'
-directions: Enter Building 420 and take the stairs to Office 260 on Floor 2
+directions:
 office_hours: []
 appointment_url: ''
 contact_links:
