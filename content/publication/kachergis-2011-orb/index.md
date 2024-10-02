@@ -5,7 +5,7 @@ authors:
 - G. E. Cox
 - M. N. Jones
 date: '2011-01-01'
-publishDate: '2024-09-24T23:30:24.801266Z'
+publishDate: '2024-10-02T20:54:03.093736Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the International Conference on Artificial Neural Networks*'

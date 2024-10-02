@@ -9,9 +9,9 @@ authors:
 - ' Others'
 - D. Yurovsky
 date: '2024-01-01'
-publishDate: '2024-09-24T23:30:24.650334Z'
+publishDate: '2024-10-02T20:54:02.907218Z'
 publication_types:
-- manuscript
+- article-journal
 publication: '*Infancy*'
 doi: 10.1111/infa.12571
 links:

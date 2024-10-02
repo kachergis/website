@@ -7,9 +7,9 @@ authors:
 - N. Bhatt
 - M. C. Frank
 date: '2021-01-01'
-publishDate: '2024-09-24T23:30:24.688380Z'
+publishDate: '2024-10-02T20:54:02.954081Z'
 publication_types:
-- article-journal
+- paper-conference
 publication: '*Proceedings of the 43rd Annual Conference of the Cognitive Science
   Society*'
 links:

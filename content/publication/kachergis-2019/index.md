@@ -6,7 +6,7 @@ authors:
 - T. M. Gureckis
 - M. Rhodes
 date: '2019-01-01'
-publishDate: '2024-09-24T23:30:24.715860Z'
+publishDate: '2024-10-02T20:54:02.991635Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 41st Annual Conference of the Cognitive Science

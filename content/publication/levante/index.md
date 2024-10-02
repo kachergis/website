@@ -9,7 +9,7 @@ authors:
 - ' Others'
 - A. Cubillo
 date: '2024-01-01'
-publishDate: '2024-09-24T23:30:24.655611Z'
+publishDate: '2024-10-02T20:54:02.913139Z'
 publication_types:
 - manuscript
 publication: '*Child Development*'

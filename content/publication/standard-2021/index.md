@@ -5,7 +5,7 @@ authors:
 - V. Marchman
 - M. C. Frank
 date: '2021-01-01'
-publishDate: '2024-09-24T23:30:24.690599Z'
+publishDate: '2024-10-02T20:54:02.956502Z'
 publication_types:
 - article-journal
 publication: '*Current Directions in Psychological Science*'

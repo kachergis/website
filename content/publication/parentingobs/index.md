@@ -7,7 +7,7 @@ authors:
 - H. V. Zhang
 - M. C. Frank
 date: '2022-01-01'
-publishDate: '2024-09-24T23:30:24.679019Z'
+publishDate: '2024-10-02T20:54:02.943832Z'
 publication_types:
 - manuscript
 abstract: Early parenting practices play an important role in shaping children's future

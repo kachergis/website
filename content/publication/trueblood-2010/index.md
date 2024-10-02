@@ -5,7 +5,7 @@ authors:
 - G. Kachergis
 - J. K. Kruschke
 date: '2010-01-01'
-publishDate: '2024-09-24T23:30:24.807950Z'
+publishDate: '2024-10-02T20:54:03.099242Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 33rd Annual Conference of the Cognitive Science

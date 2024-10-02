@@ -6,7 +6,7 @@ authors:
 - T. Torii
 - G. Kachergis
 date: '2022-01-01'
-publishDate: '2024-09-24T23:30:24.711244Z'
+publishDate: '2024-10-02T20:54:02.981349Z'
 publication_types:
 - manuscript
 abstract: Children learn thousands of words in the first several years of life, inspiring

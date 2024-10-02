@@ -5,7 +5,7 @@ authors:
 - K. Adams
 - G. Kachergis
 date: '2017-01-01'
-publishDate: '2024-09-24T23:30:24.750001Z'
+publishDate: '2024-10-02T20:54:03.035222Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 39th Annual Conference of the Cognitive Science
