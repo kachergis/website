@@ -10,10 +10,12 @@ role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Arizona State University
-  url: https://www.asu.edu/
+- name: Computational Cognitive Models (CoCoMo) Lab
+  url: https://compcogmod.github.io/cocomo-website/
 - name: Cognition, Behavior & Information
   url: https://newcollege.asu.edu/cbi
+- name: Arizona State University
+  url: https://www.asu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests encompass learning and memory, and focus on how they enable us to develop the capacity for the greatest human technology--language.
