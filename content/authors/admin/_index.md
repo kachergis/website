@@ -6,16 +6,16 @@ title: George Kachergis
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist
+role: Lead Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Computational Cognitive Models (CoCoMo) Lab
-  url: https://compcogmod.github.io/cocomo-website/
-- name: Cognition, Behavior & Information
-  url: https://newcollege.asu.edu/cbi
-- name: Arizona State University
-  url: https://www.asu.edu/
+- name: Skillprint
+  url: https://skillprint.co/
+- name: Language & Cognition Lab
+  url: https://langcog.stanford.edu/
+- name: Stanford University
+  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests encompass learning and memory, and focus on how they enable us to develop the capacity for the greatest human technology--language.
@@ -31,9 +31,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Lead Research Scientist
+    institution: Skillprint
+    year: 2022-present
   - course: Research Scientist in the Language & Cognition Lab
     institution: Stanford University
-    year: 2018-2024
+    year: 2018-present
   - course: Assistant Professor in Artificial Intelligence
     institution: Radboud University / Donders Institute
     year: 2016-2018
@@ -85,6 +88,6 @@ email: ""
 highlight_name: true
 ---
 
-George Kachergis runs the Computational Cognitive Models (CoCoMo) Lab at Arizona State University. His research seeks to understand how memory and attention support language learning and skill development. He is particularly interested in creating computational explanations of how cognitive skills develop in children, with an eye towards making AI that is more human-like.
+George Kachergis is Lead Research Scientist at Skillprint, where he applies computational models of learning and cognition to game-based mood and skill assessment, and continues as a research scientist in Stanford University's Language & Cognition Lab. His research seeks to understand how memory and attention support language learning and skill development. He is particularly interested in creating computational explanations of how cognitive skills develop in children, with an eye towards making AI that is more human-like.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/kachergis_cv.pdf" "newtab" >}}CV{{< /staticref >}}.

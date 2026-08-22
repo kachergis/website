@@ -18,19 +18,19 @@ twitter: 'https://twitter.com/kachergis'
 
 # Contact (edit or remove options as required)
 
-email: kachergis@asu.edu
+email: george.kachergis@gmail.com
 phone: ""
 address:
-  street: FSB Building
-  city: Phoenix
-  region: AZ
-  postcode: '85029'
-  country: United States
-  country_code: US
+  street: ''
+  city: ''
+  region: ''
+  postcode: ''
+  country: ''
+  country_code: ''
 coordinates:
-  latitude: '37.428577'
-  longitude: '-122.1720005'
-directions:
+  latitude: ''
+  longitude: ''
+directions: ''
 office_hours: []
 appointment_url: ''
 contact_links:

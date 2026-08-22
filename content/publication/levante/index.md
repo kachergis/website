@@ -8,11 +8,12 @@ authors:
 - G. Kachergis
 - ' Others'
 - A. Cubillo
-date: '2024-01-01'
+date: '2025-01-01'
 publishDate: '2024-10-02T20:54:02.913139Z'
 publication_types:
-- manuscript
+- article-journal
 publication: '*Child Development*'
+doi: 10.1111/cdev.70011
 abstract: Despite the ubiquity of variation in child development within individuals,
   across groups, and across tasks, timescales, and contexts, dominant methods in developmental
   science and education research still favor group averages, short snapshots of time,

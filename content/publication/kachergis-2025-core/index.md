@@ -1,0 +1,27 @@
+---
+title: 'Creation and validation of the LEVANTE core tasks: Internationalized measures
+  of learning and development for children ages 5-12 years'
+authors:
+- G. Kachergis
+- F. O'Reilly
+- ' Others'
+- M. C. Frank
+date: '2025-01-01'
+publishDate: '2026-08-22T17:22:17.385187Z'
+publication_types:
+- manuscript
+doi: 10.31234/osf.io/r4dhw_v1
+abstract: We present nine short and engaging tasks designed to assess learning and
+  development in children ages 5-12 years across a wide range of languages and cultures.
+  Using a simple and uniform multi-alternative forced-choice format, these tasks measure
+  constructs including math, executive function, language, reasoning, and social cognition,
+  and can be administered on a tablet or computer, both in person and remotely, with
+  all materials openly available. We report on their reliability and validity in a
+  sample of 1034 children recruited from sites in Colombia, Germany, and Canada. Tasks
+  are scored using multi-group item response theory models, allowing testing for measurement
+  invariance, and the parameters can be used to create computer adaptive versions
+  of the tasks, allowing the entire battery to be given in around an hour.
+links:
+- name: URL
+  url: https://doi.org/10.31234/osf.io/r4dhw_v1
+---
